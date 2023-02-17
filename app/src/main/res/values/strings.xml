@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aslan_M3_HW_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_car">Cars</string>
+    <string name="str_hero">Heroes</string>
+    <string name="str_sneakers">Sneakers</string>
+    <string name="btn_next">Next</string>
+</resources>
